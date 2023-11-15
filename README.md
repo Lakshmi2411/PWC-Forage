@@ -1,16 +1,13 @@
-# PWC-Forage
-![churn1](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/4fee0d81-423c-431f-b1b1-59702055aff7)
-![pwc7](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/f425bbc0-2318-4108-9e94-567aa1aee78a)
-![pwc6](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/43330191-2914-43d2-9805-4857eea7ac5e)
-![pwc5](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/a3666041-43e4-4c4a-a738-5f60b286a3f5)
-![pwc4](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/48018e6a-a6f2-4394-9352-475f60533a40)
-![pwc3](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/3b4513f9-e224-4dda-b047-633c28a3e25f)
-![pwc2](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/3962ea81-8434-4cd7-b133-7e72e2be1eb7)
-![pwc1](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/10be9ee2-1f90-4123-ab81-fa039e2f7d51)
-![churn8](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/e0521e87-ed3d-4336-a386-33c6191115f8)
-![churn7](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/783563db-7d26-423f-89d3-f2120173d49b)
-![churn6](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/2e278952-696c-48dd-8bbe-5917786eef6f)
-![churn5](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/c3f2bc30-cd3a-425e-9d19-60ad0ab62c0b)
-![churn4](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/db862113-6944-4cd5-bd26-a555864d106b)
-![churn3](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/7d310da6-7012-4516-af04-17635b34684c)
-![churn2](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/6349c766-a526-4d3e-bc1e-0b4853317fb8)
+# PWC-FORAGE
+# Call Center
+
+![pwc5](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/a0fae07e-a718-47d3-afea-a65f14044dbf)
+![pwc6](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/ca4286eb-fa6b-4d75-b078-c5de4e08b059)
+![pwc7](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/a149586e-6b10-4b7e-923e-46b5375c605d)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Customer Churn
+
+![churn5](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/009e5c63-d91d-4ba3-ae8d-53e0154046bb)
+![churn6](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/328807ed-542f-4435-9c02-c8938f221844)
+![churn7](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/34f2cf29-ae4b-4530-8bcb-aad2142459cb)
+![churn8](https://github.com/Lakshmi2411/PWC-Forage/assets/55243829/419940d8-2c25-4fe5-b824-79ab4bf1813f)
